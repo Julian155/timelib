@@ -32,6 +32,9 @@
 *.so.*
 *.dylib
 
+# .idea Directory
+.idea
+
 # Executables
 *.exe
 *.out
