@@ -3,4 +3,4 @@ project(timelib C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(timelib main.c)
+add_executable(timelib main.c ../../timelibLibrary/library.c)
